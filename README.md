@@ -5,7 +5,7 @@ Obras enviadas por artistas para la fuente **Comunidad** de [Wallflow](https://g
 ## ¿Eres artista? Suma tu obra
 
 1. Revisa los [lineamientos](LINEAMIENTOS.md): formato horizontal, mínimo 2560×1440, JPG o PNG.
-2. Envíala desde el formulario: **[enlace al formulario](https://forms.gle/REEMPLAZAR)**. Tienes que iniciar sesión con una cuenta de Google.
+2. Envíala desde el formulario: **[enlace al formulario](https://docs.google.com/forms/d/e/1FAIpQLSdiI5cEii51oTpfTRgt8xx0WBsDXxrhw85obPDpyP9KK_a62g/viewform)**. Tienes que iniciar sesión con una cuenta de Google.
 3. Revisamos cada envío a mano. Cuando la obra se publica, aparece en Wallflow con tu nombre y un enlace a tu perfil.
 
 Cada artista elige su licencia: **CC0** (dominio público) o **CC BY 4.0** (uso libre con crédito).
