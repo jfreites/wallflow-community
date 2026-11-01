@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-01T19:38:54Z",
+  "items": [
+    {
+      "id": "atardecer-en-degrade-wallflow",
+      "title": "Atardecer en degradé",
+      "author": "Wallflow",
+      "authorUrl": "https://github.com/jfreites/wallflow",
+      "license": "CC0-1.0",
+      "tags": [
+        "abstracto",
+        "degradado",
+        "cálido"
+      ],
+      "width": 3840,
+      "height": 2160,
+      "addedAt": "2026-11-01"
+    },
+    {
+      "id": "marea-wallflow",
+      "title": "Marea",
+      "author": "Wallflow",
+      "authorUrl": "https://github.com/jfreites/wallflow",
+      "license": "CC-BY-4.0",
+      "tags": [
+        "abstracto",
+        "degradado",
+        "azul"
+      ],
+      "width": 3840,
+      "height": 2160,
+      "addedAt": "2026-11-01"
+    }
+  ]
+}

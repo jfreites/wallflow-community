@@ -1,0 +1,19 @@
+{
+  "name": "wallflow-community",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Obras de la comunidad para la fuente «Comunidad» de Wallflow",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "artwork:add": "node --env-file-if-exists=.env scripts/add-artwork.mjs",
+    "artwork:remove": "node --env-file-if-exists=.env scripts/remove-artwork.mjs",
+    "manifest:publish": "node --env-file-if-exists=.env scripts/publish.mjs"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.1161.0",
+    "sharp": "^0.35.5"
+  }
+}
